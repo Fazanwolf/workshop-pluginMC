@@ -1,0 +1,2 @@
+com/github/anthonyvienne/workshop/mcplugin/WorkshopPlugin.java
+ com.github.anthonyvienne.workshop.mcplugin.WorkshopPlugin

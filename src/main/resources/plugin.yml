@@ -1,0 +1,4 @@
+name: MC Plugin
+version: 1.0
+author: Fazanwolf
+main: com.github.anthonyvienne.workshop.mcplugin.WorkshopPlugin
